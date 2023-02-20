@@ -1,0 +1,16 @@
+.aws/
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.gnupg/
+.profile
+.sudo_as_admin_successful
+.terraform.d/
+.vbox_version
+.viminfo
+.wget-hsts
+aws
+.gitconfig
+.ssh
+awscliv2.zip
